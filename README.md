@@ -1,2 +1,3 @@
 # sample_repo_cse1
-about repository
+about repository 
+first repository
